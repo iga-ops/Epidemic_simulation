@@ -1,7 +1,12 @@
 # Epidemic_simulation
 Implementation of a simple simulating application, modeling the course of the epidemic. It is a polymorphic automaton, the model is calibrated, based on the actual data collected.
 
-Machine states:
+#### DETALIED DOCUMETATION
+For a very detailed documentation, with a full problem description and testing process, click the link.
+
+[Detailed documantation in polish](https://github.com/iga-ops/Epidemic_simulation/blob/main/Description/Epidemic_simulation.pdf)
+
+### Machine states:
 
 • Q = Q1 xQ2
 
@@ -10,8 +15,7 @@ Machine states:
 • Q2 = {healthy, in_quarantine, infected, sick, infected_and_sick, in_hospital, recovered, dead}
 
 
-
-Adopted rules:
+### Adopted rules:
 
 • One cell = one person
 
@@ -27,11 +31,11 @@ Adopted rules:
 
 
 
-States of Q1:
+### States of Q1:
 
 ![machine_states_Q1](https://user-images.githubusercontent.com/75940256/118342314-1b36ef80-b523-11eb-9eba-13700eecb67b.png)
 
-States of Q2:
+### States of Q2:
 
 <img width="385" alt="machine_states_Q2" src="https://user-images.githubusercontent.com/75940256/118342719-dc099e00-b524-11eb-908b-de7f80656746.png">
 
