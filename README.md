@@ -22,4 +22,5 @@ States of Q1:
 
 States of Q2:
 
-![machine_states_Q2](https://user-images.githubusercontent.com/75940256/118342320-212cd080-b523-11eb-9153-2a8c1cf17e8c.png)
+<img width="385" alt="machine_states_Q2" src="https://user-images.githubusercontent.com/75940256/118342719-dc099e00-b524-11eb-908b-de7f80656746.png">
+
