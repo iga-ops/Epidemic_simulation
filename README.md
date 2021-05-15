@@ -2,11 +2,13 @@
 Implementation of a simple simulating application, modeling the course of the epidemic. It is a polymorphic automaton, the model is calibrated, based on the actual data collected.
 
 Machine states:
+
 • Q = Q1 xQ2
 • Q1 = {no_security_measures, infecting, self_protecting, protecting_others, organizing_protection}
 • Q2 = {healthy, in_quarantine, infected, sick, infected_and_sick, in_hospital, recovered, dead}
 
 Adopted rules:
+
 • One cell = one person
 • People move in a defined grid
 • Infection with a virus can occur when neighbors are infected with it (with a given probability)
