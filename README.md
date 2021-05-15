@@ -1,7 +1,7 @@
 # Epidemic_simulation
 Implementation of a simple simulating application, modeling the course of the epidemic. It is a polymorphic automaton, the model is calibrated, based on the actual data collected.
 
-#### DETALIED DOCUMETATION
+### DETALIED DOCUMETATION
 For a very detailed documentation, with a full problem description and testing process, click the link.
 
 [Detailed documantation in polish](https://github.com/iga-ops/Epidemic_simulation/blob/main/Description/Epidemic_simulation.pdf)
