@@ -10,6 +10,7 @@ Machine states:
 • Q2 = {healthy, in_quarantine, infected, sick, infected_and_sick, in_hospital, recovered, dead}
 
 
+
 Adopted rules:
 
 • One cell = one person
@@ -23,6 +24,7 @@ Adopted rules:
 • The Q1 state affects the cell moving and infecting others
 
 • The Q2 state is the individual's state of health
+
 
 
 States of Q1:
